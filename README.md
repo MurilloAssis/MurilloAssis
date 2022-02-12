@@ -10,7 +10,7 @@
 - 🎤 I'm a rap and Hip-Hop culture lover
 - 🌎 São Paulo / Brazil
 
-<img src="https://miro.medium.com/max/1400/1*pl7nVMsuxurRlvA_zEfkPQ.gif" alt="Djonga Dancing" style="width: 700px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
+<img src="https://miro.medium.com/max/1400/1*pl7nVMsuxurRlvA_zEfkPQ.gif" alt="Djonga Dancing" style="width: 900px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
 
 ### See more about my journey on IT
 <div>
