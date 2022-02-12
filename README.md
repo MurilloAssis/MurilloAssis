@@ -10,15 +10,15 @@
 - 🎤 I'm a rap and Hip-Hop culture lover
 - 🌎 São Paulo / Brazil
 
-<img src="https://miro.medium.com/max/1400/1*pl7nVMsuxurRlvA_zEfkPQ.gif" alt="Djonga Dancing" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
+<img src="https://miro.medium.com/max/1400/1*pl7nVMsuxurRlvA_zEfkPQ.gif" alt="Djonga Dancing" style="width: 700px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
 
 ### See more about my journey on IT
 <div>
-  <a href="https://github.com/escudeiro777>
+  <a href="https://github.com/MurilloAssis>
 <div>  
   <a href="https://github.com/MurilloAssis">
       <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloAssis&layout=compact&langs_count=7&theme=tokyonight"/> 
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Murillo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MurilloAssis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
                                                                                                                                                      
 </div>
                                                                                                                                                      
