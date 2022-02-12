@@ -7,7 +7,8 @@
 - 👩‍💻 16y;
 - 👩‍🎓 I'm learning System Development;
 - 🎓 I’m currently studying on Escola SENAI de Informática;
-- 🎤 I'm love RAP and Hip-Hop culture;
+- 🎤 I love RAP and Hip-Hop culture;
+- 🎮 I love gaming, competitive ones are my favorite.
 - 🌎 São Paulo / Brazil;
 
 <img src="https://miro.medium.com/max/1400/1*pl7nVMsuxurRlvA_zEfkPQ.gif" alt="Djonga Dancing" style="width: 900px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
