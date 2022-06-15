@@ -10,7 +10,7 @@
 - 🎤 I'm a communicative person and a fast learner;
 - 🎯 Seeking for my first opportunity in the area;
 
-<img src="https://i.pinimg.com/originals/bb/38/b1/bb38b1dd591ba1f77e0bcd35bc26c921.gif" alt="Kobe Bryant Shooting" style="width: 1500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
+<img src="https://media0.giphy.com/media/FTsKB8nn88Bz73JjK8/giphy.gif?cid=ecf05e47e075nts6q7un8dz17psiloiqk7pgeelh65mwu98x&rid=giphy.gif&ct=g" alt="Kobe Bryant Shooting" style="width: 900px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
 
 ### See more about my journey on IT
 <div>
