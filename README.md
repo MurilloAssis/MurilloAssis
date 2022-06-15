@@ -9,8 +9,9 @@
 - 👩‍🎓 Technician in System Development;
 - 🎤 I'm a communicative person and a fast learner;
 - 🎯 Seeking for my first opportunity in the area;
+- 🐍 Mamba Mentality;
 
-<img src="https://media0.giphy.com/media/FTsKB8nn88Bz73JjK8/giphy.gif?cid=ecf05e47e075nts6q7un8dz17psiloiqk7pgeelh65mwu98x&rid=giphy.gif&ct=g" alt="Kobe Bryant Shooting" style="width: 900px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
+<img src="https://media0.giphy.com/media/FTsKB8nn88Bz73JjK8/giphy.gif?cid=ecf05e47e075nts6q7un8dz17psiloiqk7pgeelh65mwu98x&rid=giphy.gif&ct=g" alt="Kobe Bryant Shooting" style="width: 900px; height: 400px; left: 0px; top: 0px; opacity: 0;">
 
 ### See more about my journey on IT
 <div>
