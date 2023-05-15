@@ -4,11 +4,11 @@
 
 ### About me:
 
-- 👩‍💻 17yo;
+- 👩‍💻 18yo;
 - 🌎 São Paulo / Brazil;
-- 👩‍🎓 Technician in System Development;
+- 👩‍🎓 Technician in System Development at Senai São Paulo;
 - 🎤 I'm a communicative person and a fast learner;
-- 💼 Working at 2RP Net alocated at Pernambucanas IT Staff;
+- 💼 Working as an intern in 2RP Net alocated at Pernambucanas IT Staff;
 - 🐍 Mamba Mentality;
 
 <img src="https://media0.giphy.com/media/FTsKB8nn88Bz73JjK8/giphy.gif?cid=ecf05e47e075nts6q7un8dz17psiloiqk7pgeelh65mwu98x&rid=giphy.gif&ct=g" alt="Kobe Bryant Shooting" style="width: 900px; height: 600px; left: 0px; top: 0px; opacity: 0;">
@@ -23,9 +23,10 @@
                                                                                                                                                      
 </div>
                                                                                                                                                      
-<div style="display: inline_block"><br>
+<div style="display: inline_block; width: fit-content"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
