@@ -8,10 +8,9 @@
 - 🌎 São Paulo / Brazil;
 - 👩‍🎓 Technician in System Development at Senai São Paulo;
 - 🎤 I'm a communicative person and a fast learner;
-- 💼 Working as an intern in 2RP Net alocated at Pernambucanas IT Staff;
-- 🐍 Mamba Mentality;
+- 💼 Working as an intern in 2RP Net alocated at Pernambucanas Development Team;
 
-<img src="https://media0.giphy.com/media/FTsKB8nn88Bz73JjK8/giphy.gif?cid=ecf05e47e075nts6q7un8dz17psiloiqk7pgeelh65mwu98x&rid=giphy.gif&ct=g" alt="Kobe Bryant Shooting" style="width: 900px; height: 600px; left: 0px; top: 0px; opacity: 0;">
+
 
 ### See more about my journey on IT
 <div>
@@ -39,7 +38,7 @@
    ##
                                                                                                                                                      
 <p>
-<img src="https://komarev.com/ghpvc/?username=MurilloAssis&label=Profile%20views&color=blueviolet&style=flat" alt="Nayara_Escudeiro"/>
+<img src="https://komarev.com/ghpvc/?username=MurilloAssis&label=Profile%20views&color=blueviolet&style=flat" alt="MurilloAssis"/>
 </p>
 <!--
 **MurilloAssis/MurilloAssis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
