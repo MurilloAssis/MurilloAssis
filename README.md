@@ -3,7 +3,6 @@
 ##
 
 ### About me:
-
 - 👩‍💻 18yo;
 - 🌎 São Paulo / Brazil;
 - 👩‍🎓 Technician in System Development at Senai São Paulo;
