@@ -8,7 +8,7 @@
 - 🌎 São Paulo / Brazil;
 - 👩‍🎓 Technician in System Development at Senai São Paulo;
 - 🎤 I'm a communicative person and a fast learner;
-- 💼 Working as an intern in 2RP Net alocated at Pernambucanas Development Team;
+- 💼 Working as an intern in 2RP Net alocated at Pernambucanas Api Management;
 
 
 
