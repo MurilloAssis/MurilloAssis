@@ -16,7 +16,7 @@
   <a href="https://github.com/MurilloAssis>
 <div>  
   <a href="https://github.com/MurilloAssis">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloAssis"/> 
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloAssis&layout=compact&langs_count=7&theme=tokyonight"/> 
       <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MurilloAssis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
                                                                                                                                                      
 </div>
