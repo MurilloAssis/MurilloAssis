@@ -6,7 +6,7 @@ Sobre mim:
 
 
 
-### See more about my journey on IT
+### Veja Mais:
 <div>
   <a href="https://github.com/MurilloAssis>
 <div>  
