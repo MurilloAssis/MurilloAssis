@@ -1,13 +1,8 @@
-### Welcome to my GitHub! 
-
-##
-
-### About me:
-- 👩‍💻 18yo;
-- 🌎 São Paulo / Brazil;
-- 👩‍🎓 Technician in System Development at Senai São Paulo;
-- 🎤 I'm a communicative person and a fast learner;
-- 💼 Working as an intern in 2RP Net alocated at Pernambucanas Api Management;
+Sobre mim:
+- 👩‍💻 20 Anos;
+- 🌎 São Paulo;
+- 👩‍🎓 Técnico em Desenvolvimento de Sistemas no Senai São Paulo;
+- 💼 Analista de Sistemas Jr. na empresa Kiman Solutions;
 
 
 
